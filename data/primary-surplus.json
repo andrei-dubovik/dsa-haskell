@@ -1,0 +1,139 @@
+{
+  "label": "Primary budget surplus",
+  "publicationDate": "2026-11-05",
+  "trace": [
+    "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/GOV_10DD_EDPT1/A.MIO_EUR.S13.B9+D41PAY.FR"
+  ],
+  "filter": {
+    "geo": "France",
+    "frequency": "annual",
+    "order": "flow",
+    "unit": "million euros"
+  },
+  "values": [
+    {
+      "year": 1995,
+      "value": -20162.2
+    },
+    {
+      "year": 1996,
+      "value": -3546.6
+    },
+    {
+      "year": 1997,
+      "value": -2052.5
+    },
+    {
+      "year": 1998,
+      "value": 13306.3
+    },
+    {
+      "year": 1999,
+      "value": 21399.0
+    },
+    {
+      "year": 2000,
+      "value": 24263.7
+    },
+    {
+      "year": 2001,
+      "value": 25019.8
+    },
+    {
+      "year": 2002,
+      "value": -2327.4
+    },
+    {
+      "year": 2003,
+      "value": -19658.9
+    },
+    {
+      "year": 2004,
+      "value": -12789.2
+    },
+    {
+      "year": 2005,
+      "value": -13956.3
+    },
+    {
+      "year": 2006,
+      "value": -1002.5
+    },
+    {
+      "year": 2007,
+      "value": -5840.5
+    },
+    {
+      "year": 2008,
+      "value": -12520.8
+    },
+    {
+      "year": 2009,
+      "value": -93552.4
+    },
+    {
+      "year": 2010,
+      "value": -92052.6
+    },
+    {
+      "year": 2011,
+      "value": -53389.4
+    },
+    {
+      "year": 2012,
+      "value": -53046.4
+    },
+    {
+      "year": 2013,
+      "value": -55285.8
+    },
+    {
+      "year": 2014,
+      "value": -51188.2
+    },
+    {
+      "year": 2015,
+      "value": -40973.6
+    },
+    {
+      "year": 2016,
+      "value": -41594.5
+    },
+    {
+      "year": 2017,
+      "value": -36037.6
+    },
+    {
+      "year": 2018,
+      "value": -12955.6
+    },
+    {
+      "year": 2019,
+      "value": -21357.3
+    },
+    {
+      "year": 2020,
+      "value": -177360.3
+    },
+    {
+      "year": 2021,
+      "value": -130349.0
+    },
+    {
+      "year": 2022,
+      "value": -74962.0
+    },
+    {
+      "year": 2023,
+      "value": -98510.0
+    },
+    {
+      "year": 2024,
+      "value": -108987.0
+    },
+    {
+      "year": 2025,
+      "value": -85871.0
+    }
+  ]
+}

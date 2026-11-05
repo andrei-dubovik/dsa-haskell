@@ -1,0 +1,139 @@
+{
+  "label": "Sovereign debt maturing within a year",
+  "publicationDate": "2026-11-05",
+  "trace": [
+    "https://data-api.ecb.europa.eu/service/data/GFS/A.N.FR.W0.S13.S1.C.L.LE.GD.TS._Z.XDC._T.F.V.N._T"
+  ],
+  "filter": {
+    "geo": "France",
+    "frequency": "annual",
+    "order": "flow",
+    "unit": "million euros"
+  },
+  "values": [
+    {
+      "year": 1996,
+      "value": 186426.0
+    },
+    {
+      "year": 1997,
+      "value": 187371.0
+    },
+    {
+      "year": 1998,
+      "value": 196289.0
+    },
+    {
+      "year": 1999,
+      "value": 191607.0
+    },
+    {
+      "year": 2000,
+      "value": 181213.0
+    },
+    {
+      "year": 2001,
+      "value": 182632.0
+    },
+    {
+      "year": 2002,
+      "value": 182669.0
+    },
+    {
+      "year": 2003,
+      "value": 222372.0
+    },
+    {
+      "year": 2004,
+      "value": 258076.0
+    },
+    {
+      "year": 2005,
+      "value": 266498.0
+    },
+    {
+      "year": 2006,
+      "value": 271786.0
+    },
+    {
+      "year": 2007,
+      "value": 241111.0
+    },
+    {
+      "year": 2008,
+      "value": 267294.0
+    },
+    {
+      "year": 2009,
+      "value": 345379.0
+    },
+    {
+      "year": 2010,
+      "value": 411347.0
+    },
+    {
+      "year": 2011,
+      "value": 411245.0
+    },
+    {
+      "year": 2012,
+      "value": 420854.0
+    },
+    {
+      "year": 2013,
+      "value": 406795.0
+    },
+    {
+      "year": 2014,
+      "value": 410516.0
+    },
+    {
+      "year": 2015,
+      "value": 426582.0
+    },
+    {
+      "year": 2016,
+      "value": 416548.0
+    },
+    {
+      "year": 2017,
+      "value": 388091.0
+    },
+    {
+      "year": 2018,
+      "value": 385929.0
+    },
+    {
+      "year": 2019,
+      "value": 386416.0
+    },
+    {
+      "year": 2020,
+      "value": 401974.0
+    },
+    {
+      "year": 2021,
+      "value": 504590.0
+    },
+    {
+      "year": 2022,
+      "value": 497720.0
+    },
+    {
+      "year": 2023,
+      "value": 459543.0
+    },
+    {
+      "year": 2024,
+      "value": 476293.0
+    },
+    {
+      "year": 2025,
+      "value": 548983.0
+    },
+    {
+      "year": 2026,
+      "value": 566554.0
+    }
+  ]
+}
